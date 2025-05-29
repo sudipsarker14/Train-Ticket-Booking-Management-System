@@ -5,13 +5,19 @@ the padding and border sizes, and any content inside
  * allows you to set a global style rule that affects all elements, 
  
  */
+
+
 *body {
     box-sizing: border-box;
 }
-
 body {
     margin-left: 10%;
     margin-right: 10%;
+    background-image: url('../images/background.jpg');
+    /* Additional styles for the background */
+    background-size: cover;
+    background-position: center;
+    /* Other background properties as needed */
 }
 
 .hd {

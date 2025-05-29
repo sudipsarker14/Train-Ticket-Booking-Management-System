@@ -86,7 +86,7 @@
                 From Station: <input type="text" name="fromStation"> <br>
                 To Station: <input type="text" name="toStation"> <br>
                 Seats Available: <input type="number" name="seats"> <br>
-                Fare (INR): <input type="number" name="fare"> <br>   
+                Fare (BDT): <input type="number" name="fare"> <br>
                 <input  type="submit" value="ADD TRAIN">
             </form>
         </div>

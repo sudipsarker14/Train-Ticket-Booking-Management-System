@@ -95,7 +95,7 @@
 					<th>To Station</th>
 					<th>Time</th>
 					<th>Seats Available</th>
-					<th>Fare (INR)</th>
+					<th>Fare (BDT)</th>
 					<th>Booking</th>
 				</tr>
 

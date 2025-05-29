@@ -80,6 +80,12 @@
 					<a href="${pageContext.request.contextPath}/logout">Logout</a>
 				</p>
 			</div>
+			<!--Welcome message for the admin-->
+			<div class="tab">
+				<p class="menu">
+					Hey, Admin ! Welcome to our new NTBS Website
+				</p>
+			</div>
 		</header>
 	</body>
 

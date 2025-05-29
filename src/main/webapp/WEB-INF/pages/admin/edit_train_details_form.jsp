@@ -115,7 +115,7 @@ edit_train_details_form<%@ page language="java"
 						<td><input type="number" name="seats" value="${train.seats}"></td>
 					</tr>
 					<tr>
-						<th>Fare (INR):</th>
+						<th>Fare (BDT):</th>
 						<td><input type="number" name="fare" value="${train.fare}"></td>
 					</tr>
 					<tr>

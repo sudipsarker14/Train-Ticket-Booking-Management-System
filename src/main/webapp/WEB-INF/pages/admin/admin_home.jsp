@@ -69,7 +69,7 @@
             <!--Welcome message for the admin-->
             <div class="tab">
                 <p class="menu">
-                    Hey, Admin ! Welcome to our new ITRTC Website
+                    Hey, Admin ! Welcome to our new NTBS Website
                 </p>
             </div>
 
